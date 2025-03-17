@@ -115,7 +115,7 @@ curl -X POST http://localhost:8080/calcular-intereses \
       }
   }
 
-###Ejemplo 2: Solicitud desde JavaScript (Fetch API)
+### **Ejemplo 2: Solicitud desde JavaScript (Fetch API)**
 
 ```javascript
 Copy
